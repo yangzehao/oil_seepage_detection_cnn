@@ -29,7 +29,7 @@ The detail of the results of this project has been presented in my report (Oil s
 (7) The file 'image_comparison' is a function to output and save the comparison results in the folder 'Comparison of original images, mask images and predicted images'.
 
 **The folders ((1),(2)) and the model file ((4)) are shared through the dropbox link considering the large size as below:**
-https://www.dropbox.com/sh/r2c6bvspxg9gxvi/AACfXR1dO1dvHUy_S1a9iKaja?dl=0
+https://www.dropbox.com/scl/fo/2ehymlcrxg3fkyphxcq3t/h?dl=0&rlkey=6tnradum46e3a4d96hlua5l5r
 
 
 
