@@ -2,7 +2,7 @@
 Using pretrained cnn to detect oil leak through satellite images
 
 ## 1. Description of this project:
-The detail of the results of this project has been presented in my report. Briefly, the project solves the oil leak detection problems through analyzing the ocean satellite images. In this project, it involves the analysis of over 200 million image data through convolutional neural network using the pretrained xception model.
+The detail of the results of this project has been presented in my report (Oil seepage detection report-John (Zehao) Yang.pdf). Briefly, the project solves the oil leak detection problems through analyzing the ocean satellite images. In this project, it involves the analysis of over 200 million image data through convolutional neural network using the pretrained xception model.
 
 ## 2. The Platform:
 	The OS is MacOS Catalina 10.15.7
