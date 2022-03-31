@@ -1,15 +1,18 @@
 # oil_seepage_detection_cnn
 Using pretrained cnn to detect oil leak through satellite images
 
-## 1. The Platform:
+## 1. Description of this project:
+The detail of the results of this project has been presented in my report. Briefly, the project solves the oil leak detection problems through analyzing the ocean satellite images. In this project, it involves the analysis of over 200 million image data through convolutional neural network using the pretrained xception model.
+
+## 2. The Platform:
 	The OS is MacOS Catalina 10.15.7
 	The CPU is 2.4 GHz 8-Core Intel Core i9
 	The GPU is AMD Radeon Pro 5500M 8G
 	
-## 2. The programming language and IDE:
+## 3. The programming language and IDE:
 	Python and PyCharm
 	
-## 3. The description of each fold and file:
+## 4. The description of each fold and file:
 
 (1) The folder 'Comparison of original images, mask images and predicted images' includes the comparison results for test images and the corresponding predicted images;
 
@@ -28,8 +31,7 @@ Using pretrained cnn to detect oil leak through satellite images
 **The folders ((1),(2)) and the model file ((4)) are shared through the dropbox link considering the large size as below:**
 https://www.dropbox.com/sh/r2c6bvspxg9gxvi/AACfXR1dO1dvHUy_S1a9iKaja?dl=0
 
-## 4. Description of this project:
-The detail of the results of this project has been presented in my report. Briefly, the project solves the oil leak detection problems through analyzing the ocean satellite images. In this project, it involves the analysis of over 200 million image data through convolutional neural network using the pretrained xception model.
+
 
 
 
