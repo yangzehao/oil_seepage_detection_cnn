@@ -25,6 +25,9 @@ Using pretrained cnn to detect oil leak through satellite images
 
 (7) The file 'image_comparison' is a function to output and save the comparison results in the folder 'Comparison of original images, mask images and predicted images'.
 
+**The folders and the model file are shared through the dropbox link considering the large size as below:**
+https://www.dropbox.com/sh/r2c6bvspxg9gxvi/AACfXR1dO1dvHUy_S1a9iKaja?dl=0
+
 ## 4. Description of this project:
 The detail of the results of this project has been presented in my report. Briefly, the project solves the oil leak detection problems through analyzing the ocean satellite images. In this project, it involves the analysis of over 200 million image data through convolutional neural network using the pretrained xception model.
 
