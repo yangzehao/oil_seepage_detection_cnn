@@ -18,11 +18,11 @@ The detail of the results of this project has been presented in my report (Oil s
 
 (2) The folder 'seep_detection' contains the original SAR images and mask images;
 
-(3) The file 'CGG - Oil seepage report-John (Zehao) Yang' is the report based on this problem. It shows the detail of the model and results;
+(3) The file 'Oil seepage report-John (Zehao) Yang' is the report based on this problem. It shows the detail of the model and results;
 
 (4) The file 'model-hxt(xception)-oil_seepage.h5' is the output DCNN model;
 
-(5) The file 'CGG_Oil_Seepage_hxt' is the main module to excute the program. It includes detail code of metrics and image digitalization;
+(5) The file 'Oil_Seepage_hxt' is the main module to excute the program. It includes detail code of metrics and image digitalization;
 
 (6) The file 'xception_hxt' is the code Xception pretrained model I use;
 
